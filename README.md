@@ -1,1 +1,2 @@
-# chater-ji
+# chatter-ji
+Chat messanger
